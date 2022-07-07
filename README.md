@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sarcsm
+- 👀 I’m interested in building experience in anyway what so ever in C++
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking to collaborate on C++
+- 📫 How to reach me TBD
